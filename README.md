@@ -1,6 +1,5 @@
 # Successful-Migration-to-SAP-S-4-HANA-A-Journey-of-Transformation
 Explore a detailed migration journey from IBM Netezza to SAP S/4 HANA, highlighting challenges, strategic solutions, and results achieved. This article outlines technical assessments, agile implementation, and user engagement strategies, complemented by visual diagrams for clarity.
-# Successful Migration to SAP S/4 HANA: A Journey of Transformation
 
 ## Introduction
 
@@ -32,7 +31,7 @@ The primary goal was clear: develop and execute a comprehensive migration plan t
    
 2. **Migration Roadmap Development**: I crafted a phased migration roadmap, including extraction, transformation, and loading (ETL) strategies utilizing tools like Informatica and SAP Data Services. This meticulous planning was crucial for minimizing disruptions to ongoing operations.
 
-   ![Migration Roadmap](https://example.com/migration-roadmap-image) *(Placeholder for a diagram illustrating the phased migration approach)*
+   ![Migration Roadmap](https://github.com/ahmedyehiaali/Successful-Migration-to-SAP-S-4-HANA-A-Journey-of-Transformation/blob/main/M%20roadmap.PNG?raw=true)
 
 ### Agile Implementation
 
@@ -53,7 +52,7 @@ The primary goal was clear: develop and execute a comprehensive migration plan t
 
 - **Real-time Dashboard**: I established a dashboard with easyBi for real-time tracking of migration progress and key performance indicators (KPIs). This tool allowed for transparent communication with senior management about milestones and challenges encountered.
 
-   ![Real-time Dashboard](https://example.com/dashboard-image) *(Placeholder for a chart showcasing key performance indicators pre- and post-migration)*
+   ![Real-time Dashboard](https://github.com/ahmedyehiaali/Successful-Migration-to-SAP-S-4-HANA-A-Journey-of-Transformation/blob/main/Real-time%20Dashboard.PNG?raw=true)
 
 ---
 
@@ -61,6 +60,7 @@ The primary goal was clear: develop and execute a comprehensive migration plan t
 
 The migration was a resounding success, leading to a remarkable 50% improvement in query performance and enabling real-time analytics. Although we faced delays due to unforeseen challenges, effective change management and constant communication with stakeholders ensured alignment and support throughout the transition.
 
+   ![Performance Improvement Chart](https://github.com/ahmedyehiaali/Successful-Migration-to-SAP-S-4-HANA-A-Journey-of-Transformation/blob/main/Performance%20Improvement%20Chart.PNG?raw=true)
 ---
 
 ## Challenges and Solutions
@@ -99,7 +99,7 @@ The migration was a resounding success, leading to a remarkable 50% improvement 
 
 - **Challenge**: Minimizing disruption during migration to maintain operational continuity.
 - **Solution**: I meticulously planned the migration during off-peak hours, conducting thorough testing in a non-production environment before the final cutover.
-
+![Workflow Integration Diagram](https://github.com/ahmedyehiaali/Successful-Migration-to-SAP-S-4-HANA-A-Journey-of-Transformation/blob/main/Workflow%20Integration%20Diagram.PNG?raw=true)
 ---
 
 ## Conclusion
